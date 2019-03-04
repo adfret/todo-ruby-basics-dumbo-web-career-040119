@@ -24,5 +24,5 @@ phrase
 end
 
 def pizza_party(string="cheese")
-
+string
 end
